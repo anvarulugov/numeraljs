@@ -1,5 +1,7 @@
-# numeraljs
+# [Numeral.js](http://numeraljs.com/)
 Numeral-js asset for Yii2
+
+[Website and documentation](http://numeraljs.com/)
 
 Installation
 ------------
