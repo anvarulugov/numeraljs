@@ -5,13 +5,13 @@
  * @link http://anvar.ulugov.uz
  */
 
-namespace anvarulugov\numeraljs\assets;
+namespace anvarulugov\numeraljs;
 
 use yii\web\AssetBundle;
 
-class NumeralJsAsset extends AssetBundle
+class Asset extends AssetBundle
 {
-    public $sourcePath = '@bower/adamwdraper/Numeral-js/min';
+    public $sourcePath = '@bower/numeral/min';
     public $css = [
     ];
     public $js = [
