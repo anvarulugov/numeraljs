@@ -23,4 +23,4 @@ to the require section of your `composer.json` file.
 
 Usage
 -----
-All you need is register `anvarulugov\gentelella\assets\Asset` in your layout.
+All you need is register `anvarulugov\numeraljs\Asset` in your layout.
