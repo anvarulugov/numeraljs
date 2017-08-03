@@ -1,0 +1,31 @@
+{
+  "name": "anvarulugov/numeraljs",
+  "description": "Numeral-js asset for Yii2",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","numeral","numeraljs","asset"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anvar Ulugov",
+      "email": "anvar@ulugov.uz",
+      "homepage": "https://github.com/anvarulugov",
+      "role": "Creator"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0.0",
+    "bower-asset/Numeral-js": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "anvarulugov\\numeraljs\\": ""
+    }
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm",
+      "bower-asset-library": "vendor/bower"
+    }
+  }
+}
